@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-conceitos-nodejs/README.md#rocket-sobre-o-desafio">Sobre o desafio</a>
 </p>
 
 ### Para executar o projeto utilize os comando abaixo:
