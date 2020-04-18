@@ -1,5 +1,8 @@
-# Desafio conceitos nodejs
-Primeiro desafio do bootcamp GoStack
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+
+<h3 align="center">
+  Desafio 03: Conceitos do ReactJS
+</h3>
 
 ### Para executar o projeto utilize os comando abaixo:
 
