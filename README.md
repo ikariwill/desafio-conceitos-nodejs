@@ -4,6 +4,10 @@
   Desafio 03: Conceitos do ReactJS
 </h3>
 
+<p align="center">
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>
+</p>
+
 ### Para executar o projeto utilize os comando abaixo:
 
 #### Instalar as dependências do projeto
