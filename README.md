@@ -1,7 +1,7 @@
 # Desafio conceitos nodejs
 Primeiro desafio do bootcamp GoStack
 
-Para executar o projeto execute os comandos abaixo
+- Para executar o projeto utilize os comando abaixo:
 
 #### Instala as dependências
 `yarn`
